@@ -10,7 +10,6 @@ I’m an Information Technology undergraduate and passionate Web Developer focus
 - 👥  Looking to collaborate on **Web Apps**
 - 💬  Ask me about: I'm secretly a book reader, shh! 🤫
 
----
 
 ### Skills
 
@@ -37,7 +36,6 @@ I’m an Information Technology undergraduate and passionate Web Developer focus
 <a href="https://wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" width="36" height="36"/></a>
 </p>
 
----
 
 ### Connect with me
 
@@ -50,8 +48,5 @@ I’m an Information Technology undergraduate and passionate Web Developer focus
 
 ---
 
-### GitHub Stats
-
-![Tanzeela's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanzeelaFatima492&show_icons=true&theme=radical)
 
 

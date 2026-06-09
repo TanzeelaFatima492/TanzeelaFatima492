@@ -8,7 +8,6 @@ I'm an Information Technology undergraduate from Pakistan who enjoys building pr
 
 Right now, I'm focusing on improving my skills in **Web Development, Python, and Artificial Intelligence** while also strengthening my fundamentals in programming and problem-solving.
 
----
 
 ## 🚀 About Me
 
@@ -19,7 +18,6 @@ Right now, I'm focusing on improving my skills in **Web Development, Python, and
 * 🌐 Passionate about building real-world projects
 * 📚 Always learning and improving
 
----
 
 ## 🛠 Skills
 
@@ -54,8 +52,6 @@ Right now, I'm focusing on improving my skills in **Web Development, Python, and
 * VS Code
 * WordPress
 
----
-
 ## 📂 Projects
 
 Here are some of my work:
@@ -66,7 +62,6 @@ Here are some of my work:
 * 📊 Small Web Development Practice Projects
 * 🚀 AI Internship Learning Repository
 
----
 
 ## 📈 GitHub Stats
 
@@ -76,7 +71,6 @@ Here are some of my work:
 * 📌 Active in web development projects
 * 🚀 Growing towards AI Engineering
 
----
 
 ## 🎯 Current Focus
 
@@ -86,7 +80,6 @@ Here are some of my work:
 * 📊 Data Structures & Problem Solving
 * 🧠 Real-world project building
 
----
 
 ## 🌱 Goals for 2026
 
@@ -96,7 +89,6 @@ Here are some of my work:
 * ✅ Contribute to Open Source
 * ✅ Get internship/job in tech field
 
----
 
 ## 📬 Connect With Me
 
@@ -104,15 +96,12 @@ Here are some of my work:
 * 💼 LinkedIn: https://www.linkedin.com/in/tanzeela-fatima-47861b2b7
 * 🐙 GitHub: https://github.com/TanzeelaFatima492
 
----
-
 ## 💡 Fun Fact
 
 📚 I enjoy reading books when I'm not coding.
 💻 I love turning ideas into real working projects.
 🚀 I believe consistency is more important than talent.
 
----
 
 ## ⭐ Thanks for Visiting!
 

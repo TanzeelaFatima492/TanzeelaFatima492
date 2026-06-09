@@ -63,15 +63,6 @@ Here are some of my work:
 * 🚀 AI Internship Learning Repository
 
 
-## 📈 GitHub Stats
-
-*(Automatically updates based on activity)*
-
-* 🔥 Consistent learner
-* 📌 Active in web development projects
-* 🚀 Growing towards AI Engineering
-
-
 ## 🎯 Current Focus
 
 * 🐍 Python Programming (Basics → Advanced)
